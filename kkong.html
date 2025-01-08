@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>KKONG</title>
+    <script src="./mobile-detect.min.js"></script>
+  </head>
+  <body>
+    <div id="app">
+        <a id="btn" href="#" style="font-size: 24px;padding:10px;border: 1px solid #222;text-decoration: none;color: #222;text-align: center;" onclick="clickAND()">앱실행하기</a>
+    </div>
+
+    <script>
+        // QueryString Check
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const TYPE = urlParams.get('type')
+
+        // Android
+        const ANDBTN = document.getElementById('btn');
+        let ANDLINK = null
+        let ANDSTORELINK = null
+        let ANDSTORETYPE = false
+        var md = new MobileDetect(window.navigator.userAgent);
+        // Only mobile run
+        console.log(md.mobile())
+        console.log(md.phone())
+        console.log(md.is('iPhone'))
+        if (md.mobile()) {
+            // phones
+            if (md.phone()) {
+                if (md.is('iPhone')) { // IOS
+                    ANDBTN.style.display = 'none';
+                    if (TYPE === 'GMP') {
+                        window.location.href = 'I000S00065://'
+                        goStore('I000ST0007://detail?appId=I000S00065', 'IOS')
+                    } if (TYPE === 'HMP') {
+                        window.location.href = 'I100SHY015://'
+                        goStore('I000SHY005://detail?appId=I100SHY015', 'IOS')
+                    }
+                } else { // 아이폰이외(실행앱은 IOS/AND 두종류밖에 없으므로 추가분기 하지 않음
+                    ANDBTN.style.display = 'block';
+                    ANDBTN.innerHTML = '앱실행하기'
+                    if (TYPE === 'GMP') {
+                        ANDBTN.href = 'mysuni://action';
+                        goStore('toktok://com.skt.pe.activity.mobileclient.detail?appId=A000S00034')
+                    } if (TYPE === 'HMP') {
+                        ANDBTN.href = 'mysuni-hmp://action';
+                        goStore('toktok://com.skhy.store.detail?appId=A100SHY015')
+                    }
+                }
+
+            } else if (md.tablet()) { // tablet 요청시 추가개발
+                if (md.os() !== 'AndroidOS') { // IOS
+                } else { // AND Tablet
+                }
+            }
+        }
+        function goStore(u, deviceType) {
+            console.log(u)
+            if (deviceType === 'IOS') {
+                setTimeout(function () {
+                    window.location.href = u
+                    goWebStore()
+                }, 1000)
+            } else {
+                ANDSTORELINK = u
+            }
+        }
+        function clickAND() {
+            if (!ANDSTORETYPE) {
+                setTimeout(function () {
+                    ANDBTN.innerHTML = '스토어이동하기';
+                    ANDBTN.href = ANDSTORELINK;
+                    ANDSTORETYPE = true
+                }, 1000)
+            } else {
+                goWebStore()
+            }
+        }
+        function goWebStore() {
+            setTimeout(function () {
+                window.location.href = TYPE === 'GMP' ? 'https://m.toktok.sk.com' : 'https://mobile.skhynix.com'
+            }, 1000)
+        }
+    </script>
+  </body>
+</html>

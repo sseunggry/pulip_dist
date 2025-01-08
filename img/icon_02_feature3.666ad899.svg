@@ -1,0 +1,19 @@
+<svg id="부부가둘다놀고있습니다_ic80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_72" data-name="72" width="200" height="200" fill="red" opacity="0"/>
+    </clipPath>
+  </defs>
+  <rect id="_80" data-name="80" width="200" height="200" fill="red" opacity="0"/>
+  <rect id="area" width="190" height="190" transform="translate(5 5)" fill="#03f" opacity="0"/>
+  <g id="마스크_그룹_177" data-name="마스크 그룹 177" transform="translate(0)" clip-path="url(#clip-path)">
+    <g id="icon_01" transform="translate(19.593 22.853)">
+      <path id="패스_23083" data-name="패스 23083" d="M49.483,0C74.757,0,95.245,12.805,95.245,28.6S74.757,57.2,49.483,57.2-2,38.677-2,22.881,24.209,0,49.483,0Z" transform="translate(33.889 45.79)" fill="#c1e88e"/>
+      <path id="패스_23081" data-name="패스 23081" d="M0,90.812c29.7,4.116,58.761-7.394,78.319-18.8,30.694-17.887,44.6-43.866,45.276-60.734a6.291,6.291,0,1,1,12.583,0,6.2,6.2,0,0,1-2.679,5.112S120.107,27.253,97.738,0" transform="translate(45.832 52.95) rotate(30)" fill="none" stroke="#242424" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_23082" data-name="패스 23082" d="M1666,1741.586c14.3-13.416,21.8-54.592,22.881-71.5,5.145-63.309-11.441-60.063-11.441-60.063s-11.675-.816-8.58,31.462c1.8,12.309,6.022,37.311,14.3,48.623,21.652,37.914,80.006,23.37,98.838-8.58" transform="translate(-1645.552 -1609.99)" fill="none" stroke="#242424" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_23084" data-name="패스 23084" d="M1679,1630s21.943,17.01,51.483,0" transform="translate(-1621.369 -1572.769)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="2"/>
+      <path id="패스_23085" data-name="패스 23085" d="M1690.441,1632,1679,1666.322" transform="translate(-1621.369 -1569.048)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="2"/>
+      <path id="패스_23086" data-name="패스 23086" d="M1679,1632l11.441,31.462" transform="translate(-1578.467 -1569.048)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

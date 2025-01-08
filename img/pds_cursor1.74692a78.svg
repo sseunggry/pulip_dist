@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="47.306" viewBox="0 0 104 47.306">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_2087" data-name="사각형 2087" width="22" height="22" transform="translate(883 399)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="디자인" transform="translate(-555.01 -561.205)">
+    <rect id="사각형_1958" data-name="사각형 1958" width="80" height="30" rx="4" transform="translate(579.01 578.511)" fill="#5d00da"/>
+    <text id="디자이너" transform="translate(589.01 599.511)" fill="#fff" font-size="17" font-family="Pretendard-Medium, Pretendard" font-weight="500" letter-spacing="0.04em"><tspan x="0" y="0">디자이너</tspan></text>
+    <g id="마우스커서" transform="translate(-327.99 162.205)" clip-path="url(#clip-path)">
+      <path id="합치기_24" data-name="합치기 24" d="M15.217,19l-6.6-3.252L1.9,18.936c-.966.458-2.192-.216-1.835-1.008l3.9-8.652L7.718.258a1,1,0,0,1,1.847,0l2.312,5.553a.814.814,0,0,1,.088.156l5.113,12.051c.259.612-.414,1.143-1.172,1.143A1.551,1.551,0,0,1,15.217,19Z" transform="translate(878.752 406.867) rotate(-45)" fill="#5d00da"/>
+    </g>
+  </g>
+</svg>

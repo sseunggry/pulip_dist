@@ -1,0 +1,18 @@
+<svg id="기타생활_ic80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_96" data-name="96" width="200" height="200" fill="#f9f9f9" opacity="0"/>
+    </clipPath>
+  </defs>
+  <rect id="_96-2" data-name="96" width="200" height="200" fill="#f9f9f9" opacity="0"/>
+  <rect id="_72" data-name="72" width="190" height="190" transform="translate(5 5)" fill="#1700ff" opacity="0"/>
+  <g id="마스크_그룹_180" data-name="마스크 그룹 180" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="그룹_22253" data-name="그룹 22253" transform="translate(204.134 9.588) rotate(90)">
+      <path id="패스_22618" data-name="패스 22618" d="M117.776,0,107.584,36.617l1.7,35.673L0,20Z" transform="translate(1.747 91.53)" fill="#c1e88e"/>
+      <path id="Point" d="M59.145,68.8s32.728-9.365,56.968-46.251c.183-.084,41.568,117.039,41.568,117.039l-133.507-33S60.33,99.145,49.9,55.428c-.374-.189-43.474,39.935-43.474,39.935L0,66.718s3.161-10.24,8.591-15.67,14.9-7.821,14.9-7.821,1.364-8.443,6.88-13.959,15.185-8.107,15.185-8.107S47.7,11.944,52.544,7.1,66.718,0,66.718,0l46.857,9.861L84.9,35.244l-9.025-2.256L62.051,44.682" transform="translate(210.204 98.706) rotate(135)" fill="none" stroke="#242424" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_22616" data-name="패스 22616" d="M0,21.426S8.077,13.813,2.552,0" transform="translate(163.062 29.723)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="2"/>
+      <path id="패스_22617" data-name="패스 22617" d="M2.66,17.957S7.582,10.774,0,0" transform="translate(165.123 145.702)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="2"/>
+      <path id="패스_23924" data-name="패스 23924" d="M0,0C13.462,16.429,23.4,22.532,28.486,22.532h5.005a5.005,5.005,0,1,0-5.005-5.005c0,2.764-.087,5.157,0,5.005,0,5.086,12.728,25.8,40.82,35.546" transform="translate(119.658 91.806) rotate(130)" fill="none" stroke="#242424" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

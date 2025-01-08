@@ -1,0 +1,11 @@
+{
+  "resultCode":0,
+  "resultMessage":"SUCC",
+  "data":{
+    "appVersion":{
+      "osTypeCode":"A01001",
+      "version":"0.1.00",
+      "forceUpdateYn":"N"
+    }
+  }
+}

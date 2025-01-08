@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="335" height="340" viewBox="0 0 335 340">
+  <g id="_2" data-name="2" transform="translate(-515 -4632)">
+    <rect id="사각형_1584" data-name="사각형 1584" width="335" height="340" rx="24" transform="translate(515 4632)" fill="#f2f0f5"/>
+    <path id="사각형_1584_-_윤곽선" data-name="사각형 1584 - 윤곽선" d="M24,1A22.98,22.98,0,0,0,1,24V316a22.98,22.98,0,0,0,23,23H311a22.98,22.98,0,0,0,23-23V24A22.98,22.98,0,0,0,311,1H24m0-1H311a24,24,0,0,1,24,24V316a24,24,0,0,1-24,24H24A24,24,0,0,1,0,316V24A24,24,0,0,1,24,0Z" transform="translate(515 4632)" fill="#e4deeb"/>
+    <g id="그룹_1752" data-name="그룹 1752" transform="translate(0 2004)">
+      <text id="서브_타이틀_및_제목" data-name="서브 타이틀 및 제목" transform="translate(551 2680)" font-size="17" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="0" y="0">서브 타이틀 및 제목</tspan></text>
+      <text id="Table_title1" data-name="Table title1" transform="translate(551 2912)" font-size="12" font-family="Pretendard-Regular, Pretendard"><tspan x="0" y="0">Table title1</tspan></text>
+      <text id="Table_title2" data-name="Table title2" transform="translate(551 2930)" font-size="12" font-family="Pretendard-Regular, Pretendard"><tspan x="0" y="0">Table title2</tspan></text>
+      <text id="List_contents" data-name="List contents" transform="translate(814 2912)" font-size="12" font-family="Pretendard-Regular, Pretendard"><tspan x="-69.12" y="0">List contents</tspan></text>
+      <text id="List_contents-2" data-name="List contents" transform="translate(814 2930)" font-size="12" font-family="Pretendard-Regular, Pretendard"><tspan x="-69.12" y="0">List contents</tspan></text>
+      <text id="_헬프_텍스트_영역입니다." data-name="*헬프 텍스트 영역입니다." transform="translate(551 2881)" fill="#999" font-size="10" font-family="Pretendard-Medium, Pretendard" font-weight="500"><tspan x="0" y="0">*헬프 텍스트 영역입니다.</tspan></text>
+      <g id="그룹_1750" data-name="그룹 1750" transform="translate(-2 -29)">
+        <g id="그룹_1747" data-name="그룹 1747">
+          <rect id="사각형_2432" data-name="사각형 2432" width="42" height="24" rx="4" transform="translate(553 2726)" fill="#36618a"/>
+          <text id="태그" transform="translate(564 2742)" fill="#fff" font-size="12" font-family="Pretendard-SemiBold, Pretendard" font-weight="600"><tspan x="0" y="0">태그</tspan></text>
+        </g>
+        <g id="그룹_1747-2" data-name="그룹 1747" transform="translate(50)">
+          <rect id="사각형_2432-2" data-name="사각형 2432" width="42" height="24" rx="4" transform="translate(553 2726)" fill="#f39d4e"/>
+          <text id="태그-2" data-name="태그" transform="translate(564 2742)" fill="#fff" font-size="12" font-family="Pretendard-SemiBold, Pretendard" font-weight="600"><tspan x="0" y="0">태그</tspan></text>
+        </g>
+        <g id="그룹_1747-3" data-name="그룹 1747" transform="translate(100)">
+          <rect id="사각형_2432-3" data-name="사각형 2432" width="42" height="24" rx="4" transform="translate(553 2726)" fill="#e94560"/>
+          <text id="태그-3" data-name="태그" transform="translate(564 2742)" fill="#fff" font-size="12" font-family="Pretendard-SemiBold, Pretendard" font-weight="600"><tspan x="0" y="0">태그</tspan></text>
+        </g>
+        <g id="그룹_1748" data-name="그룹 1748" transform="translate(150)">
+          <rect id="사각형_2432-4" data-name="사각형 2432" width="24" height="24" rx="4" transform="translate(553 2726)" fill="#fff"/>
+          <path id="사각형_2432_-_윤곽선" data-name="사각형 2432 - 윤곽선" d="M4,1A3,3,0,0,0,1,4V20a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V4a3,3,0,0,0-3-3H4M4,0H20a4,4,0,0,1,4,4V20a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(553 2726)" fill="#aaa"/>
+          <path id="패스_2462" data-name="패스 2462" d="M564.507,2742.977l-4.784-5.583a.75.75,0,1,1,1.139-.976l3.6,4.2,5.42-6.813a.75.75,0,1,1,1.174.934Z" fill="#d6d6d6"/>
+        </g>
+        <g id="그룹_1749" data-name="그룹 1749" transform="translate(182)">
+          <rect id="사각형_2432-5" data-name="사각형 2432" width="24" height="24" rx="4" transform="translate(553 2726)" fill="#3f3361"/>
+          <path id="패스_2462-2" data-name="패스 2462" d="M564.507,2742.977l-4.784-5.583a.75.75,0,1,1,1.139-.976l3.6,4.2,5.42-6.813a.75.75,0,1,1,1.174.934Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="그룹_1751" data-name="그룹 1751" transform="translate(-2 7)">
+        <rect id="사각형_2432-6" data-name="사각형 2432" width="224" height="132" rx="10" transform="translate(553 2726)" fill="#fff"/>
+        <path id="사각형_2432_-_윤곽선-2" data-name="사각형 2432 - 윤곽선" d="M10,1a9.01,9.01,0,0,0-9,9V122a9.01,9.01,0,0,0,9,9H214a9.01,9.01,0,0,0,9-9V10a9.01,9.01,0,0,0-9-9H10m0-1H214a10,10,0,0,1,10,10V122a10,10,0,0,1-10,10H10A10,10,0,0,1,0,122V10A10,10,0,0,1,10,0Z" transform="translate(553 2726)" fill="#e0e0e0"/>
+        <rect id="사각형_2433" data-name="사각형 2433" width="200" height="24" transform="translate(565 2738)" fill="#f4f4f4"/>
+        <rect id="사각형_2434" data-name="사각형 2434" width="200" height="44" transform="translate(565 2770)" fill="#f4f4f4"/>
+        <rect id="사각형_2435" data-name="사각형 2435" width="200" height="24" transform="translate(565 2822)" fill="#f4f4f4"/>
+      </g>
+    </g>
+  </g>
+</svg>
